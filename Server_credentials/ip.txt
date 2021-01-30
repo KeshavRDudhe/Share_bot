@@ -1,0 +1,2 @@
+host_name = 100.24.26.41
+user_name = ubuntu
